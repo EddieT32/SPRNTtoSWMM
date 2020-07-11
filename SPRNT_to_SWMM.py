@@ -7,6 +7,8 @@ import re
 This script constitutes the write step of the read-process-write workflow for converting SPRNT data into SWMM inputfile
 format.
 
+test
+
 The database result from the processing script is read into variables that will be written into a text file configured 
 to mimic the layout of a SWMM .inp file
 """
